@@ -1,1 +1,1 @@
-this is a simple repository foor leaning github and adding the codes that i do
+this is a simple repository for learning github and adding the codes that i do
