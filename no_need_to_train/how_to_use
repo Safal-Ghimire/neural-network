@@ -1,5 +1,6 @@
 to use change line 71 to to the image you have or its directory
 the image must be grayscaled
 the image must be 28 by 28
+the image must be either pn or jpg
 
   note:   the code to automatically grayscale and convert the dimensions to 28 by 28 to an image features will be added soon
